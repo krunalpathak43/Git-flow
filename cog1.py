@@ -8,4 +8,7 @@ for num in list1:
 
     # checking condition
     if num % 2 != 0:
-        print(num, end = " ") 
+        print(num, end = " ")
+
+print("Have a good day ..!!")
+
